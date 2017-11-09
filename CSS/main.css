@@ -1,4 +1,4 @@
-div {
+.div-1 {
 
   height: 100px;
   padding: 10px 0px 0px 5px;
@@ -9,7 +9,57 @@ div {
   background-color: #F7B617;
 
 }
-.bandera-gris{
+.bandera-gris {
+  background-color: #2B2B2B;
+  color: #FFF;
+}
+
+.div-2{
+  width: 200px;
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-bottom: 10px;
+}
+
+.bandera-amarilla {
+  background-color: #F7B617;
+
+}
+.bandera-gris {
+  background-color: #2B2B2B;
+  color: #FFF;
+}
+
+.div-3 {
+  width: 200px;
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.bandera-amarilla  {
+  background-color: #F7B617;
+
+}
+.bandera-gris {
+  background-color: #2B2B2B;
+  color: #FFF;
+}
+
+.div-4 {
+  width: 200px;
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-right: 10px;
+  display: inline;
+}
+
+.bandera-amarilla {
+  background-color: #F7B617;
+
+}
+.bandera-gris {
   background-color: #2B2B2B;
   color: #FFF;
 }
